@@ -1,0 +1,21 @@
+# Lane Detection Project
+
+## Dataset
+Kaggle Autonomous Driving Dataset
+
+## Annotation Task
+- Annotated lanes, road boundaries, and pedestrian crossings
+
+## Tool
+- CVAT
+
+## Work Done
+- Annotated 500+ images  
+- Exported annotations in **YOLO** and **COCO** formats
+
+## Screenshots
+- See `screenshots/` folder for example images
+
+## Learning Outcome
+- Hands-on experience with data annotation workflows  
+- Learned how to export datasets in multiple formats for AI model training
